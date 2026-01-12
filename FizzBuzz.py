@@ -1,5 +1,5 @@
 value=0
-while value<30:
+while value<100:
     value=value+1
     output= str(value) + ' '
     if value % 3 == 0: 
